@@ -1,0 +1,6 @@
+**** Alignment ****
+Sequence: gi|520999024|gb|CP003969.1| Sorangium cellulosum So0157-2, complete genome
+Length: 14782125
+e value: 5.27753
+********************
+ 
